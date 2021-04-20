@@ -1,0 +1,16 @@
+    #my_name{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+    }
+    body{
+        background: hsla(217, 100%, 50%, 1);
+    
+background: linear-gradient(225deg, hsla(217, 100%, 50%, 0.8) 40%, hsla(186, 100%, 69%, 1) 100%);
+
+background: -moz-linear-gradient(225deg, hsla(217, 100%, 50%, 0.8) 40%, hsla(186, 100%, 69%, 1) 100%);
+
+background: -webkit-linear-gradient(225deg, hsla(217, 100%, 50%, 0.8) 40%, hsla(186, 100%, 69%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#0061FF", endColorstr="#60EFFF", GradientType=1 );
+ 
+}
